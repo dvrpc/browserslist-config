@@ -1,6 +1,6 @@
 {
   "name": "@dvrpc/browserslist-config",
-  "version": "0.0.2-0",
+  "version": "0.1.0",
   "description": "Custom Browserslist stats for DVRPC",
   "main": "index.js",
   "scripts": {
