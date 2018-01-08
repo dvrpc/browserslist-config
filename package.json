@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dvrpc/browserslist-config/issues"
   },
-  "homepage": "https://github.com/dvrpc/browserslist-config#readme"
+  "homepage": "https://github.com/dvrpc/browserslist-config#readme",
+  "dependencies": {
+    "browserslist": "^2.11.0"
+  }
 }
