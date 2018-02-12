@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dvrpc/browserslist-config#readme",
   "dependencies": {
-    "browserslist": "^2.11.0"
+    "browserslist": "^2.11.3"
   }
 }
